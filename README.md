@@ -31,12 +31,12 @@ You can install the required libraries using pip:
 ### How to Run: 
 Clone the repository:
 
-    git clone https://github.com/yourusername/gesture-volume-control.git
-    cd gesture-volume-control
+    git clone https://github.com/nitsg2654/Gesture-Volume-Control.git
+    cd Gesture-Volume-Control
 
 Run the script:
 
-    python gesture_volume_control.py
+    python VolumeHandControl.py
 
 Use Your Hand:
 <ul>
@@ -50,5 +50,5 @@ Use Your Hand:
     gesture-volume-control/
     │
     ├── HandTrackingModule.py     # Reusable hand tracking utility
-    ├── gesture_volume_control.py # Main script to control volume using gestures
+    ├── VolumeHandControl.py      # Main script to control volume using gestures
     └── README.md                 # Project documentation
