@@ -1,4 +1,6 @@
 # Gesture-Volume-Control
+![Python](https://img.shields.io/badge/Python-3.9-blueviolet)
+
 In this project, we explore how to use gesture control to adjust the volume of a computer using real-time hand tracking. By leveraging a pre-built hand tracking module, we detect hand landmarks and interpret specific gestures to control the system volume dynamically. This modular approach simplifies the process, allowing us to focus on implementing gesture-based interactions efficiently. The project showcases the practical application of computer vision and gesture recognition using Python.
 
 ![VolumeGestureControl](https://github.com/user-attachments/assets/788e2741-e6d9-4cb7-a4a0-53381151b604)
