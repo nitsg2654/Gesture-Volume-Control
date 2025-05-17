@@ -36,6 +36,10 @@ Clone the repository:
     git clone https://github.com/nitsg2654/Gesture-Volume-Control.git
     cd Gesture-Volume-Control
 
+Install all the libraries mentioned in the requirements.txt file with the command 
+
+    pip install -r requirements.txt.
+
 Run the script:
 
     python VolumeHandControl.py
